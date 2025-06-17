@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Juan Arboleda
+N:Arboleda;Juan;;;
+EMAIL;TYPE=WORK,INTERNET:juan.arboleda@bachhomes.com
+TEL;TYPE=CELL:385-337-0180
+ADR;TYPE=WORK:;;11650 S. State Street, STE 300;Draper;Utah;84020;USA
+TITLE:Project Manager
+ORG:Bach Construction
+URL;TYPE=WORK:https://www.bachhomes.com
+REV:20250617T205300Z
+END:VCARD

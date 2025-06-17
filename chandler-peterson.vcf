@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Chandler Peterson
+N:Peterson;Chandler;;;
+EMAIL;TYPE=WORK,INTERNET:chandler.peterson@bachhomes.com
+TEL;TYPE=CELL:801-473-6404
+ADR;TYPE=WORK:;;11650 S. State Street, STE 300;Draper;Utah;84020;USA
+TITLE:Project Engineer
+ORG:Bach Construction
+URL;TYPE=WORK:https://www.bachhomes.com
+REV:20250617T205300Z
+END:VCARD
