@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Todd Davis
+N:Davis;Todd;;;
+EMAIL;TYPE=WORK,INTERNET:todd.davis@bachhomes.com
+TEL;TYPE=CELL:801-318-5668
+ADR;TYPE=WORK:;;11650 S. State Street, STE 300;Draper;Utah;84020;USA
+TITLE:Sr. Project Manager
+ORG:Bach Construction
+URL;TYPE=WORK:https://www.bachhomes.com
+REV:20250617T205300Z
+END:VCARD
